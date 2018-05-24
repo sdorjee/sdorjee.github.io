@@ -1,0 +1,14 @@
+body {
+    background: url("images/giftly.png");
+}
+ h1 { color:brown;}
+h1 {background-color: white; padding:15px;
+   border-color:green;
+   border-width:3px; 
+   border-style:dashed;}
+
+p{ color: brown; font-family:Courier; font-size: 14pt}
+p{text-indent:25px;}
+p{line-height:135%;}
+
+
